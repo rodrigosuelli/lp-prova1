@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-#include "get_input.h"
-
 int main()
 {
   // Cria matriz

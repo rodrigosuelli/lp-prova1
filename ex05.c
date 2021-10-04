@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 
-#include "get_input.h"
-
 int main()
 {
   srand(time(NULL));
